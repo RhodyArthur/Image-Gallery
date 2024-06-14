@@ -2,7 +2,8 @@ import  { artsGallery}   from './data.js'
 
 
 const containerEl = document.querySelector('.container')
-// thumbnail = document.getElementById('thumbnail')
+const thumbnailEl = document.getElementById('thumbnail')
+const lightBoxEl = document.querySelector('.lightbox')
 
 
 function getGalleryHtml(){
@@ -16,6 +17,6 @@ return gallery.join('')
 
 containerEl.innerHTML = getGalleryHtml()
 
-// thumbnail.addEventListener('click', function(){
-
-// })
+thumbnailEl.addEventListener('click', function(){
+    lightBoxEl.style.display = 'block'
+})
