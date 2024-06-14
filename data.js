@@ -1,63 +1,51 @@
-export const sportsGallery = [
-    {id : 1,
-    img:'images/serenawilliams.jiff',
-    caption:'Serena Williams serves during her third-round match against Qiang Wang in the Australian Open on Jan. 24.',
-    'name':'Serena Williams',
-    thumbnail_url: ''},
+export const artsGallery = [
+    {
+    img:'https://images.pexels.com/photos/18911181/pexels-photo-18911181/free-photo-of-the-tower-of-belem-in-portugal.jpeg',
+    caption:'Tower of Belem in Portugal',
+    thumbnail_url: 'https://images.pexels.com/photos/18911181/pexels-photo-18911181/free-photo-of-the-tower-of-belem-in-portugal.jpeg'},
     
     {
-    id:2,
-    img:'images/cristiano-ronaldo.webp',
-    caption:'Cristiano Ronaldo scores last-minute winner on record-breaking 200th appearance for Portugal',
-    'name':'Cristiano Ronaldo',
-    thumbnail_url: ''},
-    
+    img:'https://images.pexels.com/photos/18911198/pexels-photo-18911198/free-photo-of-city-landscape-nature-love.jpeg',
+    caption:'City Landscape',
+    thumbnail_url: 'https://images.pexels.com/photos/18911198/pexels-photo-18911198/free-photo-of-city-landscape-nature-love.jpeg'},
+
     {
-    id:3,
-    img:'images/lionel-messi.jpg',
+    img:'https://images.pexels.com/photos/2265876/pexels-photo-2265876.jpeg',
     caption:'Lionel Messi and defending champion Argentina still hungry for titles ahead of Copa America',
-    name:'Lionel Messi',
-    thumbnail_url: ''},
+    thumbnail_url: 'https://images.pexels.com/photos/2265876/pexels-photo-2265876.jpeg'},
     
-    {id:4,
-    img:'images/mbappe.jpg',
-    caption:'Kylian Mbappé Tells P.S.G. He Won’t Extend Contract in 2024',
-    name:'Kylian Mbappe',
-    thumbnail_url: ''},
+    {
+    img:'https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg',
+    caption:'Pancake With Sliced Strawberry',
+    thumbnail_url: 'https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg'},
     
-    {id:5,
-    img:'images/jude.jpg',
-    caption:'A 20-year-old Englishman fueled Real Madrid’s record-extending La Liga title and became one of the world’s best players',
-    name:'Jude Bellingham',
-    thumbnail_url: ''},
+    {
+    img:'https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg',
+    caption:'Pasta with tomatoes',
+    thumbnail_url: 'https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg'},
     
-    {id:6,
-    img:'images/alex.jpg',
-    caption:'Washington QB Alex Smith will take time to ponder NFL future',
-    name:'Alex Smith',
-    thumbnail_url: ''},
+    {
+    img:'https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg',
+    caption:'Scenic View of Mountain',
+    thumbnail_url: 'https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg'},
     
-    {id:7,
-    img:'images/lebron.jiff',
+    {
+    img:'https://images.pexels.com/photos/1198802/pexels-photo-1198802.jpeg',
     caption:'LeBron James considering retirement after Los Angeles Lakers swept by Denver Nuggets',
-    name:'Lebron James',
-    thumbnail_url: ''},
+    thumbnail_url: 'https://images.pexels.com/photos/1198802/pexels-photo-1198802.jpeg'},
     
-    {id:8,
-    img:'images/reece.jpg',
-    caption:'Reece James and sister Lauren aim for new FA Cup record with Chelsea this weekend',
-    name:'James and Lauren Reece',
-    thumbnail_url: ''},
+    {
+    img:'https://images.pexels.com/photos/15286/pexels-photo.jpg',
+    caption:'Person walking Between Green Forest Trees',
+    thumbnail_url: 'https://images.pexels.com/photos/15286/pexels-photo.jpg'},
     
-    {id:9,
-    img:'images/tennis.jiff',
-    caption:'Best Current Male Tennis Player',
-    name:'Roger Federer',
-    thumbnail_url: ''},
+    {
+    img:'https://images.pexels.com/photos/1689731/pexels-photo-1689731.jpeg',
+    caption:'Woman posing for Photoshot',
+    thumbnail_url: 'https://images.pexels.com/photos/1689731/pexels-photo-1689731.jpeg'},
     
-    {id:10,
-    img:'images/athlete.jiff',
-    caption:'Tokyo 2020: Joseph Amoah qualifies for semi-final after finishing 3rd in men’s 200m heat',
-    name:'Joseph Paul Amoah',
-    thumbnail_url: ''}
+    {
+    img:'https://images.pexels.com/photos/450038/pexels-photo-450038.jpeg',
+    caption:'Istanbul, Turkey',
+    thumbnail_url: 'https://images.pexels.com/photos/450038/pexels-photo-450038.jpeg'}
     ]
