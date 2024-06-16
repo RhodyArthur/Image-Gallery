@@ -9,12 +9,21 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Smythe&display=swap" rel="stylesheet">
+
+     <!-- font awesome -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+     integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+     crossorigin="anonymous" referrerpolicy="no-referrer" />
 </head>
 <body>
     <h1>Arts Gallery</h1>
     <div class="container">
     </div>
-    <div class="lightbox"></div>
+    <div class="lightbox hidden">
+        <div class="close-modal-btn-container">
+        <button class="modal-close-btn" id="modal-close-btn">&times;</button>
+    </div>
+</div>
 </body>
 <script src="script.js" type="module"></script>
 </html>
