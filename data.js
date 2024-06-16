@@ -11,7 +11,7 @@ export const artsGallery = [
 
     {
     img:'https://images.pexels.com/photos/2265876/pexels-photo-2265876.jpeg',
-    caption:'Lionel Messi and defending champion Argentina still hungry for titles ahead of Copa America',
+    caption:'Beach day',
     thumbnail_url: 'https://images.pexels.com/photos/2265876/pexels-photo-2265876.jpeg'},
     
     {
@@ -30,14 +30,14 @@ export const artsGallery = [
     thumbnail_url: 'https://images.pexels.com/photos/1666021/pexels-photo-1666021.jpeg'},
     
     {
-    img:'https://images.pexels.com/photos/1198802/pexels-photo-1198802.jpeg',
-    caption:'LeBron James considering retirement after Los Angeles Lakers swept by Denver Nuggets',
-    thumbnail_url: 'https://images.pexels.com/photos/1198802/pexels-photo-1198802.jpeg'},
+    img:'https://images.pexels.com/photos/6178715/pexels-photo-6178715.jpeg',
+    caption:'Tarot Cards and Lighted Candle on Black Surface',
+    thumbnail_url: 'https://images.pexels.com/photos/6178715/pexels-photo-6178715.jpeg'},
     
     {
-    img:'https://images.pexels.com/photos/15286/pexels-photo.jpg',
-    caption:'Person walking Between Green Forest Trees',
-    thumbnail_url: 'https://images.pexels.com/photos/15286/pexels-photo.jpg'},
+    img:'https://images.pexels.com/photos/11762520/pexels-photo-11762520.jpeg',
+    caption:'Colorful Mosaic at the Auditorium of Industrial Technical College in Tbilisi, Georgia.',
+    thumbnail_url: 'https://images.pexels.com/photos/11762520/pexels-photo-11762520.jpeg'},
     
     {
     img:'https://images.pexels.com/photos/1689731/pexels-photo-1689731.jpeg',
